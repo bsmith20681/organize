@@ -1,0 +1,13 @@
+.hero {
+  margin-top: 50px;
+}
+
+.about {
+  margin-top: 30px;
+  &-info {
+    margin-bottom: 30px;
+    p {
+      margin: 0px;
+    }
+  }
+}

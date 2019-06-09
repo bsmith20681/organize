@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #024488; }
+  .navbar-logo {
+    height: 6vh; }
+
+#map {
+  height: 450px;
+  width: 80%; }
+
+.fa-star {
+  color: #FFDF00;
+  margin-top: 3px; }
+
+.footer {
+  background-color: #000; }
+
+.hero {
+  margin-top: 50px; }
+
+.about {
+  margin-top: 30px; }
+  .about-info {
+    margin-bottom: 30px; }
+    .about-info p {
+      margin: 0px; }
+
+/*# sourceMappingURL=mains.css.map */
