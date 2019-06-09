@@ -1,2 +1,1 @@
-# chris_blog
 # organize
